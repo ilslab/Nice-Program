@@ -1,1 +1,2 @@
-touch Nice-Pragram
+cd desktop
+touch Nice-Program
